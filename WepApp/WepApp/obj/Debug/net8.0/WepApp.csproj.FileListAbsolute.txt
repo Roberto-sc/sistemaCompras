@@ -25,3 +25,5 @@ C:\Users\Roberto\Desktop\sistemaCompras\WepApp\WepApp\obj\Debug\net8.0\WepApp.ge
 C:\Users\Roberto\Desktop\sistemaCompras\WepApp\WepApp\obj\Debug\net8.0\ref\WepApp.dll
 C:\Users\Roberto\Desktop\sistemaCompras\WepApp\WepApp\obj\Debug\net8.0\WepApp.RazorAssemblyInfo.cache
 C:\Users\Roberto\Desktop\sistemaCompras\WepApp\WepApp\obj\Debug\net8.0\WepApp.RazorAssemblyInfo.cs
+C:\Users\Roberto\Desktop\sistemaCompras\WepApp\WepApp\obj\Debug\net8.0\WepApp.sourcelink.json
+C:\Users\Roberto\Desktop\sistemaCompras\WepApp\WepApp\bin\Debug\net8.0\WepApp.staticwebassets.runtime.json
