@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fZMRath8MdeouF78wYI8zHi1z14GYbMGYF1KnRzPxzw1f/eaCwbzap0pV7k0CNa4RhA5f0yqtvypQX0WPYNkbw==",
+  "dgSpecHash": "Rzb/Xn247Gtbfh3YRi7cT70SyXzWLJhVHlYWkVYNPcD2zOBAehKtveHp0J6vB06fkhljdQt9prWaQ5H71DcdsA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Roberto\\Desktop\\sistemaCompras\\WepApp\\WepApp\\WepApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Roberto\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
+    "C:\\Users\\Roberto\\.nuget\\packages\\jquery\\3.7.1\\jquery.3.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
